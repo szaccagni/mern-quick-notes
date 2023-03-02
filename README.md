@@ -1,3 +1,3 @@
-# MERN quick notes lad
+# MERN quick notes lab
 
 quick notes lab
